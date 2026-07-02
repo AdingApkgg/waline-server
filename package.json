@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@waline/vercel": "1.41.3"
-  },
-  "overrides": {
-    "@mdit/plugin-katex": "0.17.0"
+    "@waline/vercel": "1.41.1"
   }
 }
