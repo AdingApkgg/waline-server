@@ -4,5 +4,8 @@
   "private": true,
   "dependencies": {
     "@waline/vercel": "1.41.3"
+  },
+  "overrides": {
+    "@mdit/plugin-katex": "0.17.0"
   }
 }
